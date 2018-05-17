@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "ReleaseNotesIssues", "ReleaseNotesIssues.csproj", "{ED0E9C08-3D56-485B-8982-C22AEA6D4C63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED0E9C08-3D56-485B-8982-C22AEA6D4C63}.Debug|x86.ActiveCfg = Debug|x86
+		{ED0E9C08-3D56-485B-8982-C22AEA6D4C63}.Debug|x86.Build.0 = Debug|x86
+		{ED0E9C08-3D56-485B-8982-C22AEA6D4C63}.Release|x86.ActiveCfg = Release|x86
+		{ED0E9C08-3D56-485B-8982-C22AEA6D4C63}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
